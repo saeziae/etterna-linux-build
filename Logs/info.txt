@@ -1,0 +1,37 @@
+Etterna0.70.3
+(build v0.70.3)
+Log starting 2020-08-14 17:43:10
+	Verbosity: 1
+OS: Linux ver 050400
+Crash backtrace component: x86 custom backtrace
+Crash lookup component: backtrace_symbols
+Runtime library: glibc 2.31
+Threads library: NPTL 2.31
+ALSA: Advanced Linux Sound Architecture Driver Version k5.4.0-42-generic.
+ALSA Driver: 0: HDA Intel PCH [PCH], device 0: ALC236 Analog [ALC236 Analog], 0/1 subdevices avail
+ALSA Driver: 0: HDA Intel PCH [PCH], device 3: HDMI 0 [HDMI 0], 1/1 subdevices avail
+ALSA Driver: 0: HDA Intel PCH [PCH], device 7: HDMI 1 [HDMI 1], 1/1 subdevices avail
+ALSA Driver: 0: HDA Intel PCH [PCH], device 8: HDMI 2 [HDMI 2], 1/1 subdevices avail
+ALSA Driver: 0: HDA Intel PCH [PCH], device 9: HDMI 3 [HDMI 3], 1/1 subdevices avail
+ALSA Driver: 0: HDA Intel PCH [PCH], device 10: HDMI 4 [HDMI 4], 1/1 subdevices avail
+ALSA: dsnd_pcm_hw_params_set_access: Invalid argument
+Couldn't load driver ALSA-sw: SetHWParams failed
+Couldn't load driver OSS: RageSoundDriver_OSS: Couldn't open /dev/dsp: No such file or directory
+Couldn't load driver JACK: Couldn't connect to JACK server
+Attempting to connect to: multi.etternaonline.com, Port: 8765
+Server Version: 0 
+Video renderers: 'opengl'
+Display: :0 (screen 0)
+X server vendor: The X.Org Foundation [1.20.8.0]
+Server GLX vendor: SGI [1.4]
+Client GLX vendor: Mesa Project and SGI [1.4]
+Paletted textures disabled: GL_EXT_paletted_texture missing.
+Direct rendering: yes
+OpenGL Windowed 854x480 16 color 16 texture 60Hz NoVsync SmoothLines
+WARNING: Font import recursion detected
+WARNING: /Themes/Til Death/Fonts/_open sans semibold 24px.ini
+WARNING: /Themes/_fallback/Fonts/Common default.ini
+WARNING: /Themes/Til Death/Fonts/_16px fonts.ini
+WARNING: Current font: /Themes/Til Death/Fonts/_open sans semibold 24px.ini
+WARNING: Font /Themes/Til Death/Fonts/_16px fonts.ini has no characters
+Players joined: P1

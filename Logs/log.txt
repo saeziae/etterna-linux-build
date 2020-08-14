@@ -1,0 +1,69 @@
+00:00.007: Etterna0.70.3
+00:00.007: (build v0.70.3)
+00:00.007: Log starting 2020-08-14 17:43:10
+00:00.007: 	Verbosity: 1
+00:00.007:  
+00:00.008: Reading 'Data/Defaults.ini' failed: No such file or directory
+00:00.008: Reading 'Data/Static.ini' failed: No such file or directory
+00:00.008: Reading 'Data/Static.ini' failed: No such file or directory
+00:00.008: OS: Linux ver 050400
+00:00.008: Crash backtrace component: x86 custom backtrace
+00:00.008: Crash lookup component: backtrace_symbols
+00:00.008: Runtime library: glibc 2.31
+00:00.008: Threads library: NPTL 2.31
+00:00.037: Reading 'Themes/_fallback/ThemeInfo.ini' failed: No such file or directory
+00:00.042: Reading 'Themes/Til Death/ThemeInfo.ini' failed: No such file or directory
+00:00.060: OS: Linux ver 050400
+00:00.060: ALSA: Advanced Linux Sound Architecture Driver Version k5.4.0-42-generic.
+00:00.061: ALSA Driver: 0: HDA Intel PCH [PCH], device 0: ALC236 Analog [ALC236 Analog], 0/1 subdevices avail
+00:00.061: ALSA Driver: 0: HDA Intel PCH [PCH], device 3: HDMI 0 [HDMI 0], 1/1 subdevices avail
+00:00.061: ALSA Driver: 0: HDA Intel PCH [PCH], device 7: HDMI 1 [HDMI 1], 1/1 subdevices avail
+00:00.061: ALSA Driver: 0: HDA Intel PCH [PCH], device 8: HDMI 2 [HDMI 2], 1/1 subdevices avail
+00:00.061: ALSA Driver: 0: HDA Intel PCH [PCH], device 9: HDMI 3 [HDMI 3], 1/1 subdevices avail
+00:00.061: ALSA Driver: 0: HDA Intel PCH [PCH], device 10: HDMI 4 [HDMI 4], 1/1 subdevices avail
+00:00.062: ALSA: dsnd_pcm_hw_params_set_access: Invalid argument
+00:00.062: Couldn't load driver ALSA-sw: SetHWParams failed
+00:00.063: Couldn't load driver OSS: RageSoundDriver_OSS: Couldn't open /dev/dsp: No such file or directory
+00:00.063: Couldn't load driver JACK: Couldn't connect to JACK server
+00:00.063: Pulse: pa_threaded_mainloop_new()...
+00:00.063: Pulse: pa_context_new_with_proplist()...
+00:00.063: Pulse: pa_context_connect()...
+00:00.063: Pulse: Context connecting...
+00:00.063: Pulse: pa_threaded_mainloop_start()...
+00:00.063: Pulse: Context authorizing...
+00:00.063: Pulse: Context setting name...
+00:00.064: Pulse: Context ready now.
+00:00.064: Pulse: using sample spec: s16le 2ch 44100Hz
+00:00.064: Pulse: pa_stream_new()...
+00:00.064: Pulse: using target buffer length of 3528 bytes
+00:00.064: Pulse: pa_stream_connect_playback()...
+00:00.064: Pulse: Stream creating...
+00:00.064: Pulse: Stream ready now/
+00:00.111: Attempting to connect to: multi.etternaonline.com, Port: 8765
+00:00.111: Could not create ettp connection because: Connection creation attempt failed
+00:01.180: Connected to ett server: multi.etternaonline.com
+00:01.180: Server Version: 0 
+00:01.181: Video renderers: 'opengl'
+00:01.182: DPMSQueryExtension returned true.  Stepmania will disable power management, and restore the original state on exit.
+00:01.199: Display: :0 (screen 0)
+00:01.199: X server vendor: The X.Org Foundation [1.20.8.0]
+00:01.233: Server GLX vendor: SGI [1.4]
+00:01.233: Client GLX vendor: Mesa Project and SGI [1.4]
+00:01.306: Paletted textures disabled: GL_EXT_paletted_texture missing.
+00:01.315: Direct rendering: yes
+00:01.315: OpenGL Windowed 854x480 16 color 16 texture 60Hz NoVsync SmoothLines
+00:01.315: Unknown Input Handler name: LinuxEvent
+00:01.315: Unknown Input Handler name: LinuxJoystick
+/////////////////////////////////////////
+00:08.607: WARNING: Font import recursion detected
+00:08.607: WARNING: /Themes/Til Death/Fonts/_open sans semibold 24px.ini
+00:08.607: WARNING: /Themes/_fallback/Fonts/Common default.ini
+00:08.607: WARNING: /Themes/Til Death/Fonts/_16px fonts.ini
+00:08.607: WARNING: Current font: /Themes/Til Death/Fonts/_open sans semibold 24px.ini
+/////////////////////////////////////////
+/////////////////////////////////////////
+00:08.607: WARNING: Font /Themes/Til Death/Fonts/_16px fonts.ini has no characters
+/////////////////////////////////////////
+00:08.772: Ettp server identified: Etterna Online (Version: 1)
+00:08.772: Connection to 'Etterna Online' successful.
+00:18.798: Players joined: P1
